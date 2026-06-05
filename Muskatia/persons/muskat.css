@@ -6,31 +6,18 @@ a:hover {
     text-decoration: none;
 }
 
-#info h4 a {
-    color: red;
+#info a#m {
+    color: blue;
 }
 
-#info p a {
+#info a#ppmd_m{
     color:red;
 }
-
-#info a#kva {
-    color:blue;
-}
-#info a#kra {
-    color:blue;
-}
-#info a#ksmf {
-    color:blue;
-}
-#info a#akmf {
-    color:blue;
+#info a#ksmf_m {
+    color: blue;
 }
 
-#info a#lozka_second_p {
-    color: red;
-}
-#info a#muskat_p {
+#info a#akmf_m {
     color: blue;
 }
 
@@ -45,6 +32,7 @@ header h1{
     background-color: rgb(218, 218, 218);
     border-radius: 20px;
     padding: 10px;
+    padding-right: 400px;
 }
 
 #info2 {
