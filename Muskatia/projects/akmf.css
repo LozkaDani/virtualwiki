@@ -1,0 +1,43 @@
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+#info h4 a {
+    color: red;
+}
+
+#info p a {
+    color:red;
+}
+
+#info a#f_k {
+    color:blue;
+}
+#info a#k_k {
+    color:blue;
+}
+
+header h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#info2 {
+    background-color: rgb(218, 218, 218);
+    border-radius: 20px;
+}
+
+
+footer {
+    padding-top: 50vh;
+}
+footer p {
+    background-color: rgb(210, 210, 210);
+    border-radius: 10px;
+}
