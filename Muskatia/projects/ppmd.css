@@ -14,28 +14,11 @@ a:hover {
     color:red;
 }
 
-#info a#kva {
+#info a#f_k {
     color:blue;
 }
-#info a#kra {
+#info a#k_k {
     color:blue;
-}
-#info a#ksmf {
-    color:blue;
-}
-#info a#akmf {
-    color:blue;
-}
-
-#info a#lozka_second_p {
-    color: blue;
-}
-#info a#muskat_p {
-    color: blue;
-}
-
-#info a#ppmd_pr {
-    color: blue;
 }
 
 header h1{
@@ -44,12 +27,6 @@ header h1{
     align-items: center;
 }
 
-
-#government2 {
-    background-color: rgb(218, 218, 218);
-    border-radius: 20px;
-    padding: 10px;
-}
 
 #info2 {
     background-color: rgb(218, 218, 218);
