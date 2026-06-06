@@ -21,6 +21,10 @@ a:hover {
     color: blue;
 }
 
+#info a#lozka_f {
+    color: red;
+}
+
 header h1{
     display: flex;
     justify-content: center;

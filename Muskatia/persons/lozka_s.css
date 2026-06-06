@@ -10,11 +10,14 @@ a:hover {
     color: blue;
 }
 
-#info p a {
+#info a#ppmd_m{
     color:red;
 }
+#info a#ksmf_m {
+    color: blue;
+}
 
-#info a#lozka_second_p {
+#info a#akmf_m {
     color: blue;
 }
 
